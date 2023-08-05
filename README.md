@@ -1,11 +1,10 @@
 # CPP-ALL-IN-ONE
- All C++ Programs
+## All C++ Programs
 
- //C++ OOPS 50 Questions with Answers//
+### C++ OOPS 50 Questions with Answers
 
- 1.	What is Object-Oriented Programming (OOP)?
+ **1.	What is Object-Oriented Programming (OOP)?**
 Ans:
-
     o	Object-Oriented Programming (OOP) introduces objects and classes to C++.
 
     o	Objects represent real-world entities, encapsulating data and behaviour.
