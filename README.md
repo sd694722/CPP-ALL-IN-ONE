@@ -5,6 +5,7 @@
 
  **1.	What is Object-Oriented Programming (OOP)?**
 Ans:
+
     o	Object-Oriented Programming (OOP) introduces objects and classes to C++.
 
     o	Objects represent real-world entities, encapsulating data and behaviour.
