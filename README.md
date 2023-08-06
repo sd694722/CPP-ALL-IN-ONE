@@ -25,9 +25,13 @@
     o Polymorphism
 
 **3. Define Class and Object in C++.**
+Class:
+Class in C++ is the building block that leads to Object-Oriented programming.
+It is a user-defined data type, which holds its own data members and member functions.
 
-    o Class in C++ is the building block that leads to Object-Oriented programming. It is a user-defined data type, which holds its own data members and member functions.
-
-    o Object is an entity that have some properties, state and behaviour. It is an instance of a Class. To use the data and access functions defined in the class, we need to create objects. When a class is defined, no memory is allocated but when an object is created memory is allocated.
+Object:
+Object is an entity that have some properties, state and behaviour. It is an instance of a Class.
+To use the data and access functions defined in the class, we need to create objects.
+When a class is defined, no memory is allocated but when an object is created memory is allocated.
 
 
