@@ -40,17 +40,18 @@ _When a class is defined, no memory is allocated but when an object is created m
 
 **4.	Explain the concept of Abstraction in OOP.** <br>
 
-    o	Hides internal implementation details.
+   _Hides internal implementation details.
 
-    o	Defines interfaces for user interaction.
+   _Defines interfaces for user interaction.
 
-    o	Promotes code modularity and reuse.
+   _Promotes code modularity and reuse.
 
-    o	Enhances data security and maintainability.
+   _Enhances data security and maintainability.
 
 
 **5.	What is Encapsulation, and how is it achieved in C++?**
 
-***Encapsulation***_in OOP is bundling data and methods within a class, hiding internal details from the outside.Encapsulation is achieved using access specifiers (public, private, protected) to control member visibility, ensuring data security._
+***Encapsulation*** _in OOP is bundling data and methods within a class, hiding internal details from the outside.Encapsulation is achieved using access specifiers (public, private, protected) to control member visibility, ensuring data security._
 
-
+**6.	How does Inheritance promote code reusability?** <br>
+_Inheritance promotes code reusability by allowing a class to inherit properties and behaviours from another class, ***reducing duplication***, and ***enhancing maintainability***._
