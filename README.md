@@ -40,13 +40,13 @@ _When a class is defined, no memory is allocated but when an object is created m
 
 **4.	Explain the concept of Abstraction in OOP.** <br>
 
-   _Hides internal implementation details.
+   -Hides internal implementation details.
 
-   _Defines interfaces for user interaction.
+   -Defines interfaces for user interaction.
 
-   _Promotes code modularity and reuse.
+   -Promotes code modularity and reuse.
 
-   _Enhances data security and maintainability.
+   -Enhances data security and maintainability.
 
 
 **5.	What is Encapsulation, and how is it achieved in C++?**
