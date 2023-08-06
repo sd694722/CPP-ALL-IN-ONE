@@ -6,24 +6,24 @@
 
 **1. What is Object-Oriented Programming (OOP)?**
 
-    o	Object-Oriented Programming (OOP) introduces objects and classes to C++.
+   - Object-Oriented Programming (OOP) introduces objects and classes to C++.
 
-    o	Objects represent real-world entities, encapsulating data and behaviour.
+   -	Objects represent real-world entities, encapsulating data and behaviour.
 
-    o	OOP emphasizes inheritance, polymorphism, abstraction, and encapsulation.
+   -	OOP emphasizes inheritance, polymorphism, abstraction, and encapsulation.
 
-    o	It enhances code reusability, modularity, and easier maintenance.
+   -	It enhances code reusability, modularity, and easier maintenance.
 
 
 **2. What are the four pillars of OOP?**
 
-    o Encapsulation
+   - Encapsulation
 
-    o Abstraction
+   - Abstraction
 
-    o Inheritance
+   - Inheritance
 
-    o Polymorphism
+   - Polymorphism
 
 
 **3. Define Class and Object in C++.** <br>
@@ -40,13 +40,13 @@ _When a class is defined, no memory is allocated but when an object is created m
 
 **4.	Explain the concept of Abstraction in OOP.** <br>
 
-   -Hides internal implementation details.
+   - Hides internal implementation details.
 
-   -Defines interfaces for user interaction.
+   - Defines interfaces for user interaction.
 
-   -Promotes code modularity and reuse.
+   - Promotes code modularity and reuse.
 
-   -Enhances data security and maintainability.
+   - Enhances data security and maintainability.
 
 
 **5.	What is Encapsulation, and how is it achieved in C++?**
