@@ -58,11 +58,11 @@ _When a class is defined, no memory is allocated but when an object is created m
 
 **7.	Differentiate between a base class and a derived class.** <br>
 
-   - Base Class:
+   - **Base Class:**
       - Parent class.
       - Provides common features.
       - Blueprint for derived classes.
-   - Derived Class:
+   - **Derived Class:**
       - Child class.
       - Inherits features from the base class.
       - Can have additional specific features.
@@ -73,4 +73,35 @@ _When a class is defined, no memory is allocated but when an object is created m
    - **private:** Members are only accessible within the class itself.
    - **protected:** Members are accessible within the class and its derived classes.
 
-   
+   **11.	Define Function Overloading and provide an example.**
+
+   - Function Overloading allows multiple functions with the same name based on different parameters.
+   - Differentiates functions by number or type of parameters.
+   - Improves code readability and reusability.
+   - Compiler determines which function to call based on arguments passed during the function call.
+   - A feature in C++ enabling polymorphism.
+
+### CODE
+
+```C++
+#include <iostream>
+// Function to add two integers
+int add(int a, int b) {
+    return a + b;
+}
+
+// Function to add two floating-point numbers
+float add(float a, float b) {
+    return a + b;
+}
+
+int main( ) {
+    int result1 = add(5, 10);        // Calls the int version of add: 5 + 10 = 15
+    float result2 = add(3.5f, 2.1f); // Calls the float version of add: 3.5 + 2.1 = 5.6
+    std::cout << "Result 1: " << result1 << std::endl; // Output: Result 1: 15
+    std::cout << "Result 2: " << result2 << std::endl; // Output: Result 2: 5.6
+    return 0;
+}
+```
+
+
